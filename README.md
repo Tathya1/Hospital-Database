@@ -1,7 +1,3 @@
-Of course! A well-written `README.md` file is essential for any project. It serves as the front door, guiding users on how to set up, run, and troubleshoot the code.
-
-Here is a comprehensive `README.md` file that incorporates all the commands you provided, reorders them into a logical workflow, includes the Python solution from our previous conversation, and wraps it all in a clean, professional format.
-
 ---
 
 # Hospital Management System - Database Setup
